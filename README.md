@@ -11,12 +11,18 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-**Languages & Tools:**  
-PHP · JavaScript · MySQL · HTML · CSS · Java · Kotlin · Flutter · Docker · Linux · .NET · PL/SQL · Hibernate
+### Main Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css" />
+</p>
 
----
+### Other Technologies I've Worked With  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,docker,linux,dotnet" />
+</p>
+
 
 ## 📊 GitHub Stats
 
