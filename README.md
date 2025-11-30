@@ -10,6 +10,7 @@ I work mainly on backend logic, REST APIs and database-driven applications, and 
 
 - Modern PHP & best practices  
 - React & Node.js for full-stack apps  
+- AWS & cloud fundamentals  
 - Docker and Linux for development environments  
 
 ---
