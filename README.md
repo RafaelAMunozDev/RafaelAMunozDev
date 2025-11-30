@@ -17,13 +17,17 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
   <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,nodejs,postman,postgres,bash,react" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafaelAMunozDev/metrics/main/github-metrics.svg" />
+  <img height="165" src="https://streak-stats.demolab.com?user=RafaelAMunozDev&theme=tokyonight" />
 </p>
 
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelAMunozDev&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
@@ -32,4 +36,3 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 [![Email](https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelmunozfernandez39@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-antonio-munoz-fernandez)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelAMunozDev)
-
