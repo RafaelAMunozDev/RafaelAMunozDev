@@ -21,13 +21,13 @@ PHP · JavaScript · MySQL · HTML · CSS · Java · Kotlin · Flutter · Docker
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelAMunozDev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAMunozDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect with me
 
-- **Email:** tu-email  
-- **LinkedIn:** tu-linkedin
+- **Email:** TU_EMAIL_AQUI  
+- **LinkedIn:** https://www.linkedin.com/in/rafael-antonio-munoz-fernandez
