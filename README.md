@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Rafael 👋
 
-<!--
-**RafaelAMunozDev/RafaelAMunozDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Web Developer** with real-world experience building web applications using:
 
-Here are some ideas to get you started:
+- **PHP**
+- **JavaScript**
+- **MySQL**
+- **HTML & CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on backend logic, APIs, database-driven applications and exploring different technologies across backend, frontend, and mobile development.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Tools:**  
+PHP · JavaScript · MySQL · HTML · CSS · Java · Kotlin · Flutter · Docker · Linux · .NET · PL/SQL · Hibernate
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+- **Email:** tu-email  
+- **LinkedIn:** tu-linkedin
