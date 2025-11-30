@@ -29,10 +29,5 @@ PHP · JavaScript · MySQL · HTML · CSS · Java · Kotlin · Flutter · Docker
 
 ## 📫 Connect with me
 
-<a href="mailto:rafaelmunozfernandez39@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/rafael-antonio-munoz-fernandez">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:rafaelmunozfernandez39@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-antonio-munoz-fernandez)
