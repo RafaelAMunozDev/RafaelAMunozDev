@@ -29,5 +29,5 @@ PHP · JavaScript · MySQL · HTML · CSS · Java · Kotlin · Flutter · Docker
 
 ## 📫 Connect with me
 
-- **Email:** TU_EMAIL_AQUI  
+- **Email:** rafaelmunozfernandez39@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/rafael-antonio-munoz-fernandez
