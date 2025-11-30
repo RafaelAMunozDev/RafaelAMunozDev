@@ -22,11 +22,15 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=RafaelAMunozDev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelAMunozDev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelAMunozDev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelAMunozDev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAMunozDev&theme=tokyonight" />
 </p>
 
 ---
