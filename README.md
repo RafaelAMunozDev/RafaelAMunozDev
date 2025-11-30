@@ -1,20 +1,23 @@
 # Hi there, I'm Rafael 👋
 
-I'm a **Full-Stack Web Developer** with real-world experience building web applications using:
+I'm a **Full-Stack Web Developer** from Spain with real-world experience building web applications using **PHP**, **JavaScript**, **MySQL** and **HTML & CSS**.
 
-- **PHP**
-- **JavaScript**
-- **MySQL**
-- **HTML & CSS**
+I work mainly on backend logic, REST APIs and database-driven applications, and I enjoy exploring different technologies across backend, frontend and mobile development.
 
-I enjoy working on backend logic, APIs, database-driven applications and exploring different technologies across backend, frontend, and mobile development.
+---
+
+## 🎯 Currently learning
+
+- Modern PHP & best practices  
+- React & Node.js for full-stack apps  
+- Docker and Linux for development environments  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,nodejs,postman,postgres,bash,react" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs,mysql,postgres,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,postman,bash" />
 </p>
 
 ---
@@ -26,7 +29,6 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
   <span style="display:inline-block; width:120px;">&nbsp;</span>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAMunozDev&theme=tokyonight" />
 </p>
-
 
 ---
 
