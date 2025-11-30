@@ -26,7 +26,7 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelAMunozDev&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelAMunozDev&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
