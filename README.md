@@ -21,13 +21,14 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 30px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <img height="165" src="https://streak-stats.demolab.com?user=RafaelAMunozDev&theme=tokyonight" />
 
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAMunozDev&theme=tokyonight" />
 
 </div>
+
 
 
 ---
