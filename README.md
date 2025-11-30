@@ -13,16 +13,9 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 
 ## 🛠 Tech Stack
 
-### Main Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,nodejs,postman" />
 </p>
-
-### Other Technologies I've Worked With  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,docker,linux,dotnet" />
-</p>
-
 
 ## 📊 GitHub Stats
 
