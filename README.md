@@ -21,7 +21,7 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
 
   <img height="165" src="https://streak-stats.demolab.com?user=RafaelAMunozDev&theme=tokyonight" />
 
