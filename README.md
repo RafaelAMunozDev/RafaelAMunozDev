@@ -22,8 +22,13 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Streak izquierda -->
   <img height="165" src="https://streak-stats.demolab.com?user=RafaelAMunozDev&theme=tokyonight" />
-  
+
+  <!-- Espacio visible entre las dos tarjetas -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Stats derecha -->
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAMunozDev&theme=tokyonight" />
 </p>
 
