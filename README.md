@@ -35,9 +35,6 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
   </tr>
 </table>
 
-
-
-
 ---
 
 ## 📫 Connect with me
