@@ -26,8 +26,6 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAMunozDev&theme=tokyonight" />
 </p>
 
-
-
 ---
 
 ## 📫 Connect with me
