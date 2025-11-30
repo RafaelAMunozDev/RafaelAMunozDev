@@ -14,7 +14,7 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,nodejs,postman,postgres,bash,react" />
 </p>
 
 ## 📊 GitHub Stats
