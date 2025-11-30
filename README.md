@@ -20,9 +20,9 @@ I enjoy working on backend logic, APIs, database-driven applications and explori
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/rahulkarda/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img height="180em" src="https://raw.githubusercontent.com/rahulkarda/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/RafaelAMunozDev/metrics/main/github-metrics.svg" />
 </p>
+
 
 
 ---
