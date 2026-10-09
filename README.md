@@ -1,24 +1,29 @@
 # Hi there, I'm Rafael 👋
 
-I'm a **Full-Stack Web Developer** from Spain with real-world experience building web applications using **PHP**, **JavaScript**, **MySQL** and **HTML & CSS**.
+I'm a **Full-Stack Developer focused on backend** from Spain.
 
-I work mainly on backend logic, REST APIs and database-driven applications, and I enjoy exploring different technologies across backend, frontend and mobile development.
+I build applications and internal tools used every day by real teams, working with **Java**, **.NET / C#**, **Kotlin** and **PHP**, and with relational databases such as **SQL Server**, **MySQL** and **PostgreSQL**.
+
+My experience covers **REST APIs**, **mobile apps**, **web platforms with complex business logic** and **process automation with AI agents** (n8n, LLM integrations).
+
+I enjoy understanding how systems work end to end, from the database to deployment with **Docker** and **Linux**.
 
 ---
 
 ## 🎯 Currently learning
 
-- Modern PHP & best practices  
-- React & Node.js for full-stack apps  
-- AWS & cloud fundamentals  
-- Docker and Linux for development environments  
+- **Java & Spring Boot** in depth
+- **.NET** and backend best practices
+- **Software architecture** and clean code
+- **Applied AI**: LLM integration, RAG and agents
+- **English** (B2)
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,nodejs,mysql,postgres,java,kotlin,flutter,docker,linux,dotnet,git,github,vscode,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,kotlin,androidstudio,php,js,html,css,mysql,postgres,python,flutter,dart,docker,linux,ubuntu,bash,git,github,vscode,postman" />
 </p>
 
 ---
