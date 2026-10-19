@@ -16,7 +16,7 @@ I enjoy understanding how systems work end to end, from the database to deployme
 - **.NET** and backend best practices
 - **Software architecture** and clean code
 - **Applied AI**: LLM integration, RAG and agents
-- **English** (B2)
+- **English**: B1 → working towards B2
 
 ---
 
@@ -31,7 +31,8 @@ I enjoy understanding how systems work end to end, from the database to deployme
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelAMunozDev&theme=tokyonight" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 ---
