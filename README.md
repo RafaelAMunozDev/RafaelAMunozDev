@@ -32,7 +32,6 @@ I enjoy understanding how systems work end to end, from the database to deployme
 
 <p align="center">
   <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 
 ---
