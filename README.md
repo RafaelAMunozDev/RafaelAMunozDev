@@ -10,6 +10,14 @@ I enjoy understanding how systems work end to end, from the database to deployme
 
 ---
 
+## 🚀 Featured projects
+
+- **[HouseServices](https://github.com/RafaelAMunozDev/HouseServices)** — Mobile app for booking and offering home services. Flutter app with its own **Kotlin + Spring Boot** REST API, **MySQL**, **Docker**, **Firebase** (Auth, Storage, FCM, Firestore) and **Google Maps**.
+- **[n8n Automation Workflows](https://github.com/RafaelAMunozDev/n8n-automation-workflows)** — Automations for real business cases: leave request approval via Discord, AI-powered job scraping into Google Sheets and a **RAG** document assistant with **PostgreSQL + PGVector**.
+- **[Kanban por proyectos](https://github.com/RafaelAMunozDev/kanban-proyectos)** — Per-project kanban board built with plain **PHP and JavaScript** during my 2023 internship: drag and drop, task templates, rich-text editor, a notes chat and three languages.
+
+---
+
 ## 🎯 Currently learning
 
 - **Java & Spring Boot** in depth
