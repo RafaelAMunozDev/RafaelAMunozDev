@@ -36,13 +36,6 @@ I enjoy understanding how systems work end to end, from the database to deployme
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-</p>
-
----
 
 ## 📫 Connect with me
 
